@@ -225,7 +225,7 @@ Agronomist Engineer · Native Forest Specialist · GIS & Remote Sensing
 Diplomatura en Geomática Aplicada — Instituto Gulich (CONAE/UNC) *(in progress)*  
 Ministry of Environment, Córdoba Province, Argentina
 
-🔗 [LinkedIn](https://linkedin.com/in/javiermartinez-gis) · [GitHub](https://github.com/javiermartinez-gis)
+🔗 [LinkedIn](https://linkedin.com/in/javier-martinez-bosque) · [GitHub](https://github.com/javiermartinezbosque-source)
 
 ---
 
